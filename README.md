@@ -1,4 +1,4 @@
-![CHALLENGER](https://github.com/JunghwanRo/git_practice/assets/112362005/7a90deca-fdec-4e6b-b46b-c70feb81a0bc)
+![CHALLENGER ](https://github.com/JunghwanRo/TIR-TodayIResearched/assets/112362005/18dff921-67ee-4614-857c-344f308667e9)
 
 <h1 align='center'> Hi there 👋, I'm Junghwan Ro </h1>
 
