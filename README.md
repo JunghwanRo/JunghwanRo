@@ -3,7 +3,7 @@
 <h1 align='center'> Hi there 👋, I'm Junghwan Ro </h1>
 
 <p align='center'>
-  I'm a student @ [DREAM Lab](https://dream.georgiatech-metz.fr/), studying <b>Robotics</b> 
+  I'm a student at **[The DREAM Lab](https://dream.georgiatech-metz.fr/)**, Georgia Institute of Technology
 </p>
 
 <p align='center'>
