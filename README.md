@@ -1,12 +1,16 @@
 ![CHALLENGER](https://github.com/JunghwanRo/git_practice/assets/112362005/7a90deca-fdec-4e6b-b46b-c70feb81a0bc)
 
-## Hello World
+<h1 align='center'> Hi there 👋, I'm Junghwan Ro </h1>
 
-`git config --global user.name "Junghwan Ro"`
+<p align='center'>
+  I'm a student @ [DREAM Lab](https://dream.georgiatech-metz.fr/), studying <b>Robotics</b> 
+</p>
 
-💻 Student @ [DREAM Lab](https://dream.georgiatech-metz.fr/).
+<p align='center'>
+  <a href="https://www.linkedin.com/in/junghwanro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jro37@gatech.edu?subject=HelloJun"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-💬 [LinkedIn](https://www.linkedin.com/in/junghwanro/) | [Homepage](https://www.junghwanro.com/)
+</p>
 
 ## git log
 
