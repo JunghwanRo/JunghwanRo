@@ -21,7 +21,4 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junghwanro&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <h1 align='center' style="color: black;"> Fair winds and following seas! </h1>
