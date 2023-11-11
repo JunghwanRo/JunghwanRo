@@ -3,7 +3,7 @@
 <h1 align='center'> Good day 👋, Call me Jun </h1>
 
 <p align='center'>
-  I'm a <strong>Robotics</strong> enthusiast at <strong><a href="https://dream.georgiatech-metz.fr/" target="_blank">The DREAM Lab</a></strong>, Georgia Institute of Technology
+  I'm a <strong>Robotics</strong> challenger at <strong><a href="https://dream.georgiatech-metz.fr/" target="_blank">The DREAM Lab</a></strong>, Georgia Institute of Technology
 </p>
 
 <p align='center'>
