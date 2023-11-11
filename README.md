@@ -1,16 +1,18 @@
-### Hi there 👋
+![CHALLENGER](https://github.com/JunghwanRo/git_practice/assets/112362005/7a90deca-fdec-4e6b-b46b-c70feb81a0bc)
 
-<!--
-**JunghwanRo/JunghwanRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World
 
-Here are some ideas to get you started:
+`git config --global user.name "Junghwan Ro"`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Student @ [DREAM Lab](https://dream.georgiatech-metz.fr/).
+
+💬 [LinkedIn](https://www.linkedin.com/in/junghwanro/) | [Homepage](https://www.junghwanro.com/)
+
+## git log
+
+`=== 2023 - Present ===`
+
+**Highlights:**
+
+## Fair winds and following seas!
+
