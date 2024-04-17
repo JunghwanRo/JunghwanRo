@@ -4,7 +4,7 @@
 
 <p align='center'>
   I'm a <strong>Robotics</strong> challenger at <strong><a href="https://dream.georgiatech-metz.fr/" target="_blank">The DREAM Lab</a></strong>, Georgia Institute of Technology<br>
-  Now, at <strong><a href="https://erl.ethz.ch/" target="_blank">Environmental Robotics Lab</a></strong>, ETH Zurich
+  Now, temporarily at <strong><a href="https://erl.ethz.ch/" target="_blank">Environmental Robotics Lab</a></strong>, ETH Zurich
 </p>
 
 <p align='center'>
