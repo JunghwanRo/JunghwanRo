@@ -1,6 +1,6 @@
 ![CHALLENGER ](https://github.com/JunghwanRo/TIR-TodayIResearched/assets/112362005/18dff921-67ee-4614-857c-344f308667e9)
 
-<h1 align='center' style="color: black;"> Good day 👋, I am Jun </h1>
+<h1 align='center' style="color: black;"> Good day 👋, I am Junghwan Ro </h1>
 
 <p align='center'>
   I'm a <strong>Robotics</strong> challenger at <strong><a href="https://dream.georgiatech-metz.fr/" target="_blank">The DREAM Lab</a></strong>, Georgia Institute of Technology<br>
