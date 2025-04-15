@@ -3,8 +3,8 @@
 <h1 align='center' style="color: black;"> Good day 👋, I am Junghwan Ro </h1>
 
 <p align='center'>
-  I'm a <strong>Robotics</strong> challenger at <strong><a href="https://dream.georgiatech-metz.fr/" target="_blank">The DREAM Lab</a></strong>, Georgia Institute of Technology<br>
-  Now, temporarily at <strong><a href="https://erl.ethz.ch/" target="_blank">Environmental Robotics Lab</a></strong>, ETH Zurich
+  I'm a <strong>Robotics</strong> challenger at <strong><a href="https://www.epfl.ch/labs/lsr/" target="_blank">The Laboratory of Sustainability Robotics (LSR) </a></strong>, EPFL/Empa <br>
+  in Zurich.
 </p>
 
 <p align='center'>
